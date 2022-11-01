@@ -187,6 +187,7 @@ Cocos Creator 是一个完整的游戏开发解决方案，包含了 cocos2d-x �
 蓝图是一种特殊的asset类型，它可以创建逻辑，以直观的、基于节点的方式来设置变量数据。规划可以创建自定义角色、事件、功能等，并且快速地完成Gameplay迭代，无需编写任何代码。
 设计蓝图还可以继承C++类、C++中定义的变量、在C++中调用函数或在C++中实现事件。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ce6ee779bed24d479999909c019a2138.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/b2ad5e2331814198a7dcc84a770db54a.png)
 
 
 
